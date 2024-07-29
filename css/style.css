@@ -1,0 +1,18 @@
+body {
+  font-family:'Times New Roman', Times, serif;
+  font-size: 150%;
+  background-color: #e6adc9;
+  
+}
+li{
+  margin: 15px;
+     background-color: #56dcc6;
+  display: inline-block; 
+ 
+  
+  }
+h1 {
+  color: #008020;
+  margin-left: 20px;
+  text-align: center;
+  background-color: beige;
